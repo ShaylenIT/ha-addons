@@ -11,6 +11,14 @@ venv/
 # VS Code
 /.vscode/
 
+# Local speckit files
+/.github/
+/.specify/
+
+# Local spec artifacts
+BRS/
+specs/
+
 # Logs and local state
 *.log
 *.log.*
