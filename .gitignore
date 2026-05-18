@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# VS Code
+/.vscode/
+
+# Local speckit files
+/.github/
+/.specify/
+
+# Local spec artifacts
+BRS/
+specs/
+
+# Logs and local state
+*.log
+*.log.*
+.python310-version.log
+.pip-install-homeassistant.log
+.pip-homeassistant-install.log
+.pip-homeassistant-install-311.log
+
+# macOS
+.DS_Store
+
+# OneDrive
+~$*
