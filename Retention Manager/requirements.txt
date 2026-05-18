@@ -1,0 +1,2 @@
+# Minimal development requirements for the Retention Manager prototype
+homeassistant>=2024.1

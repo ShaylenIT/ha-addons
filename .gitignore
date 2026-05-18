@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# VS Code
+/.vscode/
+
+# Logs and local state
+*.log
+*.log.*
+.python310-version.log
+.pip-install-homeassistant.log
+.pip-homeassistant-install.log
+.pip-homeassistant-install-311.log
+
+# macOS
+.DS_Store
+
+# OneDrive
+~$*
