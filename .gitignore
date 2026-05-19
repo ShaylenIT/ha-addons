@@ -12,8 +12,9 @@ venv/
 /.vscode/
 
 # Local speckit files
-/.github/
-/.specify/
+.github/prompts/
+.github/agents/
+.specify/
 
 # Local spec artifacts
 BRS/
