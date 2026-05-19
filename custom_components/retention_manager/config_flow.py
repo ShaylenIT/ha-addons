@@ -5,7 +5,8 @@ from .const import DOMAIN
 
 _LOGGER = logging.getLogger(__name__)
 
-class RetentionManagerConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
+
+class ConfigFlow(config_entries.ConfigFlow):
     """Handle a config flow for Retention Manager."""
 
     VERSION = 1
