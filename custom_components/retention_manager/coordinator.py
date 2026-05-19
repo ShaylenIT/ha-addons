@@ -89,4 +89,3 @@ class RetentionManagerCoordinator(DataUpdateCoordinator[Dict[str, DirectoryStats
         )
         _LOGGER.debug("Path %s stats: %s", path, total_stats)
         return total_stats
-*** End Patch
