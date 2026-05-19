@@ -1,5 +1,4 @@
 from homeassistant.core import callback
-    @staticmethod
     @callback
     def async_get_options_flow(config_entry):
         return OptionsFlow(config_entry)
