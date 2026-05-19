@@ -103,4 +103,3 @@ async def async_handle_refresh(hass: HomeAssistant, call: ServiceCall) -> None:
         await coordinator.async_request_refresh()
         _LOGGER.info("Full refresh completed for all allowed directories")
 
-*** End Patch
