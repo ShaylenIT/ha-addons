@@ -1,7 +1,7 @@
 # 🗂️ HA Retention Manager
 
 > A native Home Assistant integration for intelligent local file storage management.
-
+ssd
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Integration-41BDF5?logo=home-assistant&logoColor=white)](https://www.home-assistant.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![HACS Compatible](https://img.shields.io/badge/HACS-Custom%20Repository-orange)](https://hacs.xyz/)

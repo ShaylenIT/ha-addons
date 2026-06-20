@@ -4,7 +4,7 @@
 
 **Created**: 2026-05-18
 
-**Status**: Draft
+**Status**: Draftnen
 
 **Input**: User description: "Create specs per feature"
 
